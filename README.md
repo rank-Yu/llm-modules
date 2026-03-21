@@ -2,7 +2,7 @@
   <h2><b> [AAAI'26 Oral] Discovering Decoupled Functional Modules in Large Language Models </b></h2>
 </div>
 
-This repository contains the official implementation for our **AAAI 2026 Oral** paper: [Discovering Decoupled Functional Modules in Large Language Models](https://github.com/rank-Yu/llm-modules/blob/main/Discovering_Decoupled_Functional_Regions_in_Large_Language_Models.pdf).
+This repository contains the official implementation for our **AAAI 2026 Oral** paper: [Discovering Decoupled Functional Modules in Large Language Models](https://arxiv.org/abs/2603.17823).
 
 > If you find our work useful in your research. Please consider giving a star ⭐ and citation 📚
 
